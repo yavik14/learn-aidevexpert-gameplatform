@@ -15,11 +15,12 @@ El resultado va dirigido a **[un equipo indie de 2–3 personas / un/a desarroll
 
 ## TAREA
 
-Diseña el **concepto completo de un juego de plataformas 2D para Android** en el que el jugador controla a tres personajes de la Semana Santa:
+Diseña el **concepto completo de un juego de plataformas 2D para Android** en el que el jugador controla a cuatro personajes de la Semana Santa:
 
-1. **Costalero** — ritmo y música; avanza al compás de la marcha bajo la trabajadera.
+1. **Costalero** — ritmo de pulsos y **voces de mando**; avanza al compás de la marcha bajo la trabajadera y el desgaste reduce la chicotá.
 2. **Nazareno** — plataformas de precisión; se mueve entre la multitud evitando obstáculos.
-3. **Cofrade** — puzle y sincronía; usa el entorno y la hermandad para abrir paso y ganar "fervor".
+3. **Cofrade** — coordinación; ordena la comitiva y cumple la carrera oficial.
+4. **Músico** — rhythm game a dos líneas (instrumento solista y ritmo del tambor).
 
 Define cómo se alternan o se eligen los personajes, y cómo se combinan sus mecánicas en la jugabilidad. Entrega el diseño listo para pasar a producción.
 
@@ -30,7 +31,7 @@ Define cómo se alternan o se eligen los personajes, y cómo se combinan sus mec
 - **Género:** plataformas 2D side-scroller con toques de puzle y rpg.
 - **Tema:** Semana Santa — se respetan símbolos, palios, pasos y hermandades; tono simpático pero respetuoso.
 - **Público objetivo:** andaluces adolescentes y jóvenes hasta 40, principalmente aficionados a la Semana Santa.
-- **Restricciones:** sesiones de 3–5 min, rendimiento fluido en gama media, MVP acotado (3 nivel demostrable, cada uno con 1 personaje jugables), desarrollo solo dev.
+- **Restricciones:** sesiones de 3–5 min, rendimiento fluido en gama media, MVP acotado (4 niveles demostrables, cada uno con 1 personaje jugable), desarrollo solo dev.
 - **Inspiración:** plataformas con identidad cultural (p. ej. *Gris*, *Ori*), pero con dificultad accesible.
 
 ## SALIDA
@@ -39,9 +40,9 @@ Responde **en español** con estas secciones y formato:
 
 1. **Concepto en una frase** (máx. 20 palabras).
 2. **Pilares de diseño** (3 bullets).
-3. **Los 3 personajes** — en una **tabla** con: nombre, fantasía de juego, habilidad única, debilidad, control táctil.
+3. **Los 4 personajes** — en una **tabla** con: nombre, fantasía de juego, habilidad única, debilidad, control táctil.
 4. **Bucle de juego** (core loop) y **bucle de sesión**.
-5. **Mecánicas del Costalero, Nazareno y Cofrade** — con el mapeo a gestos táctiles (tap, swipe, arrastre).
+5. **Mecánicas del Costalero, Nazareno, Cofrade y Músico** — con el mapeo a gestos táctiles (tap, swipe, arrastre).
 6. **Diseño del nivel MVP** — objetivo, obstáculos, duración, criterio de victoria.
 7. **Progresión y rejugabilidad** (desbloqueos, puntuación, coleccionables).
 8. **Dirección de arte y audio** — paleta, estilo 2D, ambiente sonoro (marchas, saetas, silencio).

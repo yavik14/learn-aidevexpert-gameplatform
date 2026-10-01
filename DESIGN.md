@@ -85,13 +85,16 @@ Fuente **pixel/monospace** para coherencia con el estilo. `[SUPUESTO — elegir 
 
 - `button-primary`: fondo granate, texto crema.
 - `button-action`: fondo oro, texto oscuro (acción/compra con fervor).
+- `voz-button`: botón de voz de mando (Costalero).
+- `nota-lane`: carril de notas (Músico, 2 líneas).
+- `fervor-meter`: medidor de fervor del espectador (0–3).
 - HUD de fervor y de progreso de nivel.
 
 ## Core Screens
 
-1. **Selección de personaje** — Costalero, Nazareno, Cofrade con su mecánica.
-2. **Juego (nivel)** — HUD + controles táctiles.
-3. **Resultado de nivel** — fervor ganado, siguiente nivel, anuncio intersticial.
+1. **Selección de personaje** — Costalero, Nazareno, Cofrade y Músico con su mecánica.
+2. **Juego (nivel)** — HUD (**fervor del espectador 0–3**) + controles táctiles; incluye la paleta de **voces de mando** del Costalero y las **2 líneas** del Músico.
+3. **Resultado de nivel** — calificación de fervor **0–3** por chicotá/tramo, siguiente nivel, anuncio intersticial.
 4. **Revivir (rewarded)** — oferta opcional al fallar.
 
 ## Responsive Baseline
